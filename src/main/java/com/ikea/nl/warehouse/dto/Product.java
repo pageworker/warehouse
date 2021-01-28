@@ -17,5 +17,5 @@ public class Product implements Serializable {
     private String name;
 
     @JsonProperty("contain_articles")
-    private List<ProductPart> articles;
+    private List<ProductPart> productParts;
 }
