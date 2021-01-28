@@ -18,7 +18,7 @@ Clone or download this project. Then in the root run the applcation by using the
 mvn spring-boot:run
 ```
 
-if you ave not installed maven 3.6.x
+if you have not installed maven 3.6.x
 
 ```Shell
 .\mvnw.cmd spring-boot:run
@@ -42,6 +42,8 @@ copy the inventory.json and products.json in to same folder as the jar and run b
 ```Shell
 java -jar warehouse.jar
 ```
+
+The application should now start.
 
 # Buy/Sell a Dining Chair
 
